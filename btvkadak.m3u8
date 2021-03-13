@@ -1,4 +1,29 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=395546,RESOLUTION=640x360,QUALITY=low
-https://vsd72.mycdn.me/hls/1129203239602_low/index.m3u8
+{
+  "statVersion": 2,
+  "version": "10.11.55",
+  "location": "AnonymVideoEmbed/anonymVideoEmbed/anonym",
+  "providerId": "LIVE_TV_ODKL",
+  "duration": "0",
+  "contentId": "1129203239602",
+  "movieId": "2444063022770",
+  "cid": "7008379054452",
+  "sid": "10477344095714",
+  "flashVersion": "html5",
+  "statType": "",
+  "dst": "",
+  "peerInfo": "cdn",
+  "contentType": "HLS_MASTER_PLAYLIST",
+  "referer": "http://pksports.pk/",
+  "cdn": "vsd72.mycdn.me",
+  "quality": "auto",
+  "batch": [
+    {
+      "name": "first_bytes_loaded",
+      "value": 1470
+    },
+    {
+      "name": "first_frame",
+      "value": 1549
+    }
+  ]
+}
