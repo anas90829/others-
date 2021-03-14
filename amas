@@ -521,7 +521,6 @@ http://?PVFIZG9WRmNtRlhldGhGTlZaemMzUkRObU5WYUVKWFphZFVUdWR6YktaVFMxTWtNclozTW9C
 http://?PU1IZG9WRmNtRjNidGhGTlZaemMwUkRObU5WYUVSWFphZFVUdWR6ZEtaVFMxTWtNcFozTW9CWFdtaEdOS1IwYjYxRWJSRjNLR05rV3hCWGR5RTFSM1ozTXFWMGNqNUVjRzlpYnVKbmJ6ZDFkMk0zUzNrbVE0SWxhTHAwYkZsMlozQjFaMlJIVmE1MllyQkhaeFJIYk1oV2J6WTJNUWxXVTFGRk1qUkRValpYWUs1RWRONTJhMjFtVE9Ga1d2bEdkMkEzUTNKWFMzSlRTS2wwZHFWbVVvbDNhdlJrVXZZa2N3b1dZUEZrY3dza2JKWkhPbzl5UnZsMFREQm5ZTlYzUW1CMWNLTldiUWgxUW5kV1pucFdheUJWVWw5MlRTcDJOcEZEYTRGemJHWlZlc3BVWkhKMWFubDJaT1IxUVRwMmRXaFRlM0UyWTFabGJMVm5UeHhtUjVzVVpvWmxhVjEwTG9aM0tvaDBLNFFEUkVobVdtWm5aYXgyYTFWbFJSSmpXNU4wZEpaRVR4MG1TVGxuVEVsMWFFdFVjb2x6WTJoRlVHaGxNemNHVzJWbWJZUjNhdkVrZUo5Mlp5TmxaMWNEZWo1V1I1UlRRS2wyZFgxR2UwZGpXd2hEVnhkVlRoWjNUb2xXYzQ4U2JvcG1NSXhVTnR0V1IyRm1WNWxYT09OR2R6czJkU2x6WnNsRVVyUkVaWmQyVmhoblJ2bEVaWFZEZHpKMGFVSkdacXAxYWFaemNHVkhVVGwxVmFOemJRaEVUcmgwZDNoemNUMTJMV04zVjE5a1o0ODBkVkJIVzRoSE4wZDNOeFJUTldKWFZhZDBNVmhtZU5wVmVJdGlOdGhEYno1V1VoOTJURE56VGhGVGN2TjNSVTlVVHNCVFA=
 #EXTINF: -1 tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="INDIA//MIX.", DISNEY
 http://?MGRrV3lFVU5ZdFdURlpWYmg5eWF6MFdaSVJIWnVaWFJsRjFOTGRtYkhabmRybGxldzFHT3ZaWFMzaFRSelIyYlhObloxTlRPTXR5ZE5sbVdxeEdTMzlFUk9wMVVNMVdZNFVYY3hCM2E1a1VlTlJHU3RkWE15cEhhekEzWmpGWFZZRmtjMDkyWlU5aVJxOW1Na1IxWjZGblJRMTBNTk5FZUdsbVMxVWxRdnBHYTNBbFpRSm5iejlFVHVoRmVKTkZkaFpVTn
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV INDIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109850145-62c81200-7c7c-11eb-8a88-ec30ad329f70.png" group-title="MUSIC CH",MTV INDIA
 http://?b2wzVTFJRFRwVm5acmhGYXlWemMyRWpTblpUYzBCbmUwTlZaUWRYZExsMlNLTjJhaGwwTkxKbFZyNW1XRkpXV0p4R2FxSlVNSkZ6ZEZSa2F4bGtac0IzWXdaRk5LOVdjdE5tZEhaVGFCOVdXU1JsZXJselJPRldWM0FuWTE4R2VLcG5jUGRrY0ZKVWN3aEdhMlVtZUdKM1pUMW1ZQkprY2hoak5wcDJhdFJ6TEdGbGE1SUhSdnRXTklwbWF3b0hSU2RIU3NSWFc1OWlWQ0pIYk4xRWVEWkdldkZYVHlSMlE0aEVWd3NTWUhsM1IzVTJZcGhFZXFoelFHMVdUdWxYWXFOMFIzOUdWaWxVUA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV INDIA‌+" tvg-logo="https://user-images.githubusercontent.com/78508217/109850145-62c81200-7c7c-11eb-8a88-ec30ad329f70.png" group-title="MUSIC CH",MTV INDIA‌+
@@ -720,6 +719,28 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE CRICKET 5" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",LIVE CRICKET 5
 http://45.58.137.98:80/star-123456/index.m3u8?token=2a6575e99ea40be9e51d4bd60ac1fdb2527fd236-M8RUD4ZING76ENR8-1612590066-1612579266
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 1 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356806-d2ffda80-8064-11eb-8baa-2aa4efb34ced.png" group-title="beIN Sports",beIN Sports 1 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6123/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 3 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356769-cb403600-8064-11eb-8c34-2a79fd4f7790.png" group-title="beIN Sports",beIN Sports 3 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6124/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 4 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356818-d5623480-8064-11eb-91e0-dc4f5babd69e.png" group-title="beIN Sports",beIN Sports 4 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6125/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 5 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356790-cf6c5380-8064-11eb-9a79-6ec96058dc74.png" group-title="beIN Sports",beIN Sports 5 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6126/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 6 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356822-d5facb00-8064-11eb-84f5-dafec243e9e7.png" group-title="beIN Sports",beIN Sports 6 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6127/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 7 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356810-d4310780-8064-11eb-838f-2976042746fe.png" group-title="beIN Sports",beIN Sports 7 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6128/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 8 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356785-ced3bd00-8064-11eb-9744-2d588b494731.png" group-title="beIN Sports",beIN Sports 8 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6129/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 9 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356803-d2674400-8064-11eb-91ed-159f35660380.png" group-title="beIN Sports",beIN Sports 9 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6130/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 10 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356808-d3987100-8064-11eb-8bd3-3fc6cbbbd503.png" group-title="beIN Sports",beIN Sports 10 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6131/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 11 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356814-d4c99e00-8064-11eb-9eda-6ac07d9a0bc3.png" group-title="beIN Sports",beIN Sports 11 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6132/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 12 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356798-d09d8080-8064-11eb-806d-659322df2248.png" group-title="beIN Sports",beIN Sports 12 HD QA
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6133/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATN BANGLA " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ATN BANGLA 
 http://103.81.104.222:80/hls/stream17.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL-I " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",CHANNEL-I 
