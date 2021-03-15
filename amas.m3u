@@ -236,7 +236,7 @@ http://103.251.247.105:3001/aostv/5fb8b539813f1de2333c31b9/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA HD.1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="IND.BANGLA",STAR JALSHA HD.1
 http://?cmRrV3lFVU5ZaFdURlpWYmg5Q2N6MFdaSVJIWjBaWFJsUldXU2QzUVBaRVp0MW1jNUZEVDJGVmV1bEZhTFJuVk0xbVRCRlRTd1FGYUhSWFVxbEZOMk5WV3JFMVYyTlhaMllEY3ROamVQTmpRcVZXUTZWV1l6QkhPNWNtUzFaM1JNZG1iU1YzYTRJa1F4ZGxjMGNEZVROM0wyOVVXdkVIZHlBRlZWcFdlMVpGUnJVbk56OEdiT0puUW5wa2JIOVVZMWRqZXBOR1o=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA HD.2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="IND.BANGLA",STAR JALSHA HD.2
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.ts
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JALSHA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="IND.BANGLA",JALSHA MOVIES
 http://103.251.247.105:3001/aostv/5fc11a9477ef280ee69891ba/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JALSHA MOVIES HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848137-1f6ca400-7c7a-11eb-883b-d172f207102f.png" group-title="IND.BANGLA",JALSHA MOVIES HD
@@ -564,7 +564,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE HD MUSIC" tvg-logo="https://user-images.githubusercontent.com/78508217/109850170-68bdf300-7c7c-11eb-9fcf-e8dc2d88e9a9.png" group-title="MUSIC CH",ONE HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.ts
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS HD
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7592da00-d1b1-11ea-af5a-6f10b22fa1bf/461435/77760677.png" group-title="SPORTS CH",TEN-SPORTS.1
@@ -588,7 +588,7 @@ http://?M2wzVTFJRFRwSm5acmhGYXlWRGMyRWpTblpUY3FCbmUwbDFUckZYT25kMlltVlZibnRDTXps
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS CH",SONY SIX HD
 http://?eGRrV3lFVU5ZOVdURlpWYmg5Q2F6MFdaSVJIWnlaWFJscEZVb2gyYjVrR2RuaDBjd2sxY2haamEyNUdNMzVVUU5aM00wWVZNU2xuZDNFMlZVTlZSd2xFZXJFbmVQZFdVYWhqZHc0V2RYdGtRNGtUWXdoSFJIWmpidjVtUWlaVWN5ZEZlME5sWTNOa2Q2RjNkVzFrVHRGSE00cGxjT1JsZTNRMVlzTlhQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CH",WILLOW CRICKET HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/70.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/70.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS HD 501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fox_Sports_Netherlands_Logo.png/800px-Fox_Sports_Netherlands_Logo.png" group-title="SPORTS CH",FOX SPORTS HD 501
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/499.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTA SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/df209a30-4423-11eb-8740-13a221f1e2ec/1004497/165678618.png" group-title="SPORTS CH",RTA SPORTS.1
@@ -602,7 +602,7 @@ http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="SPORTS CH",STAR SPORTS 2HD
 http://103.251.247.106:3001/aostv/60084d8baf05178ef75e1e12/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD.2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="SPORTS CH",STAR SPORTS 2 HD.2
-http://digiiptv.ddns.net:25461/Rojob/12345/200
+http://digiiptv.ddns.net:25461/Rojob/12345/200|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809273/135408770.png" group-title="SPORTS CH",STAR SPORTS SELECT 1
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809273/135408771.png" group-title="SPORTS CH",STAR SPORTS SELECT 2
