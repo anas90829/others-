@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="BANGLA CH",ATN BANGLA
-http://ipm.oncast.me:1932/iplived/app-atnbd-8-org.stream/chunks.m3u8
+http://?cGwzVTFJRFRwdG1acmhGYXlWVGQyRWpTblpUYzNCbmUwSm1UdDVHYkJkSGRETkhhbFIwY0Jabk11aGtaamhGVjJ0MkszUUdWdXRDZVB0U05NSldaM2hIVjA4Q01LMVdZeFZVYQ==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL- I" tvg-logo="https://user-images.githubusercontent.com/78508217/109845515-702ecd80-7c77-11eb-8613-d891d1fedc4e.png" group-title="BANGLA CH",CHANNEL- I
 http://?PW9YZVRWak1NbDJibXRHV29KWE4yWlRNS2RtTnhsR2M2UkhXVlJFZUNCVFN3bzFhcDlVVDBVamNKaDNaMFkxTFhKVmV4Z25WeHcwWjNSMFlaRjJUdmtYYktObVZxTlVjYWRFWjQwMGR4QlZRcTkyTVN4R1ZDdFdPTHQwWnA5aVZVbFVTeFZuYzFzU1dtcEdieEZHWmhKSGRDbGtScUZETjB0bWVXdFVTVmgyVjBRVmJRUlZlMWdsZU5abmVuWjNhTnhHT3MxMlNSVmtXQ0ZtYnpsa2VqSmpZcVJrTUxSWFJtWm5VcWgzTHhGemJqWmpkdVZIT3NGWGVZTlhRMjkyYTA4eUx3azNiU0psVWlkbVozSmplbWxqUTJZblZ3aFhWNGwzWnY1R1pxOWlZ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV" tvg-logo="https://user-images.githubusercontent.com/78508217/109845518-71f89100-7c77-11eb-8f98-7860ca04e679.png" group-title="BANGLA CH",EKUSHEY TV
@@ -46,9 +46,9 @@ http://45.153.33.137:2200/R-EX/Nexus_TV-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAAN BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110980970-a3b4da80-8390-11eb-9758-2a92260086bc.png" group-title="BANGLA CH",GAAN BANGLA
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="BANGLA CH",ATN NEWS
-http://ipm.oncast.me:1932/iplived/app-atnws-sg.stream/chunks.m3u8
+http://?cmwzVTFJRFRweG1acmhGYXlWVGEyRWpTblpUYzFCbmUwUjFSRWgyYkNaRlZ2ZzJaWTFXUVlSVFM2ZFhZWkJEY3pkWE1TMW1ST05UZTJ0eWNtVmpRdFoyYnNwVk4xczJTMHRFTw==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY NEWS" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA CH",SOMOY NEWS
-http://somoy.appv.jagobd.com:1932/somoy/somoyt000011226615544544.stream/chunks.m3u8
+http://?cWwzVTFJRFRwcG5acmhGYXlWamIyRWpTblpUYzFCbmUwTkdkSjkyWmhkM1NzcFVkdjhrVllOV2R2SmtWT2gwSzIxR1IyUUdXS04yZEI5Q09HbEZjNFJsVTI0a1VIdFdPd2N6Sw==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="BANGLA CH",INDEPENDENT TV
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA CH",JAMUNA TV
@@ -58,7 +58,7 @@ https://rhridoy136.shortcm.li/dbcnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 24" tvg-logo="https://user-images.githubusercontent.com/78508217/109845563-7cb32600-7c77-11eb-8624-e858d8664ca3.png" group-title="BANGLA CH",NEWS 24
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="BANGLA CH",CHANNEL 24
-http://chs.appv.jagobd.com:1932/channel24/channel24-sg-e8e.stream/chunks.m3u8
+http://?bmwzVTFJRFRwUm5acmhGYXlWVGEyRWpTblpUYzZCbmUwTldkcU5uU3JFamVvWlhjVEpIU3loWGQxRjJkM3gwVkJWWFJZUm1lVjVFYVZKVVR5RTJNb2hVY1hkMVJKUkhXaVJtWQ==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV" tvg-logo="https://user-images.githubusercontent.com/78508217/109845566-7d4bbc80-7c77-11eb-9654-2cd12b12dd5b.png" group-title="BANGLA CH",EKATTOR TV
 http://?cGRrV3lFVU5ZbFdURlpWYmg5aWR6MFdaSVJIWjVaWFJscEZVbzkyYjVrR2RuaEVid2sxY2haamFvNUdNMzVVUU5sV012SXpVSlJEZEhCM05oRm1aM3hFUnZkV1o0aG1OWmRXVU5kM2RyVjNidjFXVzRwM2NKVmxidlozWWlSekxzbFhiMmdYTldoSFMyOVVjTWhYYldoV01LVjBjb2xFY0ZsRE93TVdQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV-WORLD" tvg-logo="https://user-images.githubusercontent.com/78508217/109845572-7de45300-7c77-11eb-8d60-250065c5249c.png" group-title="BANGLA CH",BTV-WORLD
@@ -307,8 +307,8 @@ http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF
 http://fun6.xyz:8880/HINDI_MINIPLEX_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="https://user-images.githubusercontent.com/78508217/109848887-f8fb3880-7c7a-11eb-8b34-6f37f0afab20.png" group-title="HINDI CH",UTV ACTION
 http://103.81.104.222:80/hls/stream7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES " tvg-logo="https://user-images.githubusercontent.com/78508217/109848890-f993cf00-7c7a-11eb-9e98-3d10a93dfa63.png" group-title="HINDI CH",UTV MOVIES 
-http://45.153.33.137:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES " tvg-logo="https://user-images.githubusercontent.com/78508217/109848890-f993cf00-7c7a-11eb-9e98-3d10a93dfa63.png" group-title="HINDI CH",UTV MOVIES 
+#http://45.153.33.137:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848893-fa2c6580-7c7a-11eb-9509-5fc469db36ec.png" group-title="HINDI CH",UTV HD
 http://fun6.xyz:8880/HINDI_UTV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="https://user-images.githubusercontent.com/78508217/109219863-61ad6580-77e2-11eb-94cf-ad5ea79010a5.png" group-title="HINDI CH",STAR PLUS
@@ -1065,9 +1065,9 @@ http://?PT1nYVA5U2UyWUhOdGxWVkVwM1RGbFdhdjVFYnJWM2Q2WlVkeUUzYjNwWFF0TkhWNGxtUXdk
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6140/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||ENG||" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||ENG||
 https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HIN||.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HINDI||.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HINDI||.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HINDI||.1
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HIN||.2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HINDI||.2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.2
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN HD+" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408676.png" group-title="KIDS ENT.",CN HD+
 http://pn.tvott.info:80/477845056156344/477845056156344/83600
