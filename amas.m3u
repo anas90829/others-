@@ -306,7 +306,7 @@ http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX FHD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX FHD
 http://fun6.xyz:8880/HINDI_MINIPLEX_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="https://user-images.githubusercontent.com/78508217/109848887-f8fb3880-7c7a-11eb-8b34-6f37f0afab20.png" group-title="HINDI CH",UTV ACTION
-http://103.81.104.222:80/hls/stream7.m3u8
+http://fun6.xyz:8880/HINDI_UTV_ACTION/index.m3u8
 ##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES " tvg-logo="https://user-images.githubusercontent.com/78508217/109848890-f993cf00-7c7a-11eb-9e98-3d10a93dfa63.png" group-title="HINDI CH",UTV MOVIES 
 #http://45.153.33.137:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848893-fa2c6580-7c7a-11eb-9509-5fc469db36ec.png" group-title="HINDI CH",UTV HD
