@@ -275,11 +275,11 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.IN" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.IN
 http://?cGRrV3lFVU5ZNVdURlpWYmg5Q2N6MFdaSVJIWnBaWFJscEZVb3AzYjVrR2RuaFVid2sxY2haamFwNUdNMzVVUU5CWE1aQjNWSE4wYjVrelYxNTJTMHhrWTFBM1J4cEhieWtuY1FobmRSUnpRQ2wwUTZCbmF3YzJMUk5uUlB4bWFHZERkVFZVV0lsMFp1RmxlVVpVTXpSWE5GQlZSRlJVYjBKalNIUlRQ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.UK" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.ASIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.UK
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6626/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.IN" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.IN
 http://?c2RrV3lFVU5ZaFhURlpWYmg5eWF6MFdaSVJIWm5aWFJscEZVb2wyYjVrR2RuaDBkd2sxY2haamEwNUdNMzVVUU54bU1LVkZVaWxVY3RSVVd0WjNLNE5WYzBobmNXeEdXNFJuYnJJMWJXSnpTVUZUVTBOM1lFeEdjeXRHWktWeksyaERlRGRGZDJsa1F2UnpacmREZVVkSFZpaFhUM3RHZGxKektaMVVQ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.UK" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.ASIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.UK
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6571/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB HD.1" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB HD.1
 http://?MGRrV3lFVU5ZOVdURlpWYmg5U2J6MFdaSVJIWnJaWFJscEZVb04zYjVrR2RuaGthd2sxY2haamF4NUdNMzVVUU5oR001YzBRemxGZVp0MmNFcEdTNE5FWkdka1VQZDNhbVJXT1F0MmJIZDBkd2NtYzExRWVLUm1TU0ZuY3YwRVJURjBkeU1HTTVjVU4weG1iajEyS1FsSFVxQm5VSEpFYUgxMExORlVQ
@@ -555,9 +555,9 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KADAK HITS" tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="MUSIC CH",KADAK HITS
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWD0geqBESXH94uOzG-Ys6slnJRPXyRxglKQ&usqp=CAU" group-title="MUSIC CH",ARY MUSIC
-http://?emRrV3lFVU5ZOVdURlpWYmg5Q2F6MFdaSVJIWnVaWFJscEZVb2wzYjVrR2RuaDBad2sxY2haamF4NUdNMzVVUU4xR01hcFZZV3R5Y21KVGNDQjFSdVowYU8xV05qNW1UNkpHY1RaWGJ6OWlid0pEUzZSMlQ0NTBjVmhXY0xsV09paEdidkEzVHZkamM2SlVOVlYzTE85bWFTTlVjd3RDYXZjR09wbFVQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="MUSIC CH",VH1 HD
+http://?emRrV3lFVU5ZOVdURlpWYmg5Q2F6MFdaSVJIWnVaWFJscEZVb2wzYjVrR2RuaDBad2sxY2haamF4NUdNMzVVUU4xR01hcFZZV3R5Y21KVGNDQjFSdVowYU8xV05qNW1UNkpHY1RaWGJ6OWlid0pEUzZSMlQ0NTBjVmhXY0xsV09paEdidkEzVHZkamM2SlVOVlYzTE85bWFTTlVjd3RDYXZjR09wbFVQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARY MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWD0geqBESXH94uOzG-Ys6slnJRPXyRxglKQ&usqp=CAU" group-title="MUSIC CH",ARY MUSIC
 http://?d2wzVTFJRFRwbG1acmhGYXlWVGIyRWpTblpUY29CbmUwWm1VbU5YYVlkWGN1bGplcklUWTBoM2I1TmpXa0ZXY3pnM2JJWlRZREpqZGlaMVNucDFhNFJHZTRoVFYyb25WRVYwUTFvbmVRUnpLSWRUT3BSbWJNTlVPQ3BIU1JGRFRxVjFkcEYyU3ZGR2R2ZG5jRmRVYkhoWE9tTm1Uc1pXZUpOWE13cFVVdFZ6TG5aa015Tm5TdFIxYXZ0V2NIVkZiM05XZHpOMkt4VUhaNGRIVDQ4MlEyTVZlcmwzTkxGRmIxMUVjdGRXY0hWSGFsTjJidlZWYnRoMlluWkVTcFpHZUxkbmRWbG5TM2tWUA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2 VEAT TV" tvg-logo="https://user-images.githubusercontent.com/78508217/108452821-69758300-7293-11eb-994a-d1ab86f0a509.png" group-title="MUSIC CH",V2 VEAT TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/v2beattv.stream/chunks.m3u8
