@@ -742,85 +742,85 @@ http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6132/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 12 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356798-d09d8080-8064-11eb-806d-659322df2248.png" group-title="beIN Sports",beIN Sports 12 HD QA
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6133/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATN BANGLA " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ATN BANGLA 
-http://103.81.104.222:80/hls/stream17.m3u8
+http://hitectv.live/hls/stream17.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL-I " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",CHANNEL-I 
-http://103.81.104.222:80/hls/stream18.m3u8
+http://hitectv.live/hls/stream18.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAASRANGA TV HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",MAASRANGA TV HD
-http://103.81.104.222:80/hls/stream20.m3u8
+http://hitectv.live/hls/stream20.m3u8
 #EXTINF:-1 tvg-id="Brazzers.ero" tvg-name="NAGORIK TV " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",NAGORIK TV 
-http://103.81.104.222:80/hls/stream24.m3u8
+http://hitectv.live/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="hustler-blue" tvg-name="SOMOY NEWS" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SOMOY NEWS
 http://103.81.104.222:80/hls/stream21.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL 24" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",CHANNEL 24
-http://103.81.104.222:80/hls/stream22.m3u8
+http://hitectv.live/hls/stream22.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ZEE BANGLA HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ZEE BANGLA HD 
-http://103.81.104.222:80/hls/stream30.m3u8
+http://hitectv.live/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COLORS BANGLA HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",COLORS BANGLA HD 
-http://103.81.104.222:80/hls/stream28.m3u8
+http://hitectv.live/hls/stream28.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR JALSHA HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR JALSHA HD 
-http://103.81.104.222:80/hls/stream31.m3u8
+http://hitectv.live/hls/stream31.m3u8
 #EXTINF:-1 tvg-id="candy" tvg-name="JALSHA MOVIES HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",JALSHA MOVIES HD
-http://103.81.104.222:80/hls/stream27.m3u8
+http://hitectv.live/hls/stream27.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ENTERR10 BANGLA " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ENTERR10 BANGLA 
-http://103.81.104.222:80/hls/stream26.m3u8
+http://hitectv.live/hls/stream26.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="UTV ACTION " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",UTV ACTION 
-http://103.81.104.222:80/hls/stream7.m3u8
+http://hitectv.live/hls/stream7.m3u8
 #EXTINF:-1 tvg-id="BarelyLegal.bg" tvg-name="& PICTURES HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",& PICTURES HD
-http://103.81.104.222:80/hls/stream14.m3u8
+http://hitectv.live/hls/stream14.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ZEE CINEMA HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ZEE CINEMA HD 
-http://103.81.104.222:80/hls/stream25.m3u8
+http://hitectv.live/hls/stream25.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR PLUS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR PLUS HD
-http://103.81.104.222:80/hls/stream38.m3u8
+http://hitectv.live/hls/stream38.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR GOLD HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR GOLD HD 
-http://103.81.104.222:80/hls/stream19.m3u8
+http://hitectv.live/hls/stream19.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="COLORS CINEPLEX HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",COLORS CINEPLEX HD 
-http://103.81.104.222:80/hls/stream29.m3u8
+http://hitectv.live/hls/stream29.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="9XM" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",9XM
-http://103.81.104.222:80/hls/stream4.m3u8
+http://hitectv.live/hls/stream4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ZOOM" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ZOOM
-http://103.81.104.222:80/hls/stream8.m3u8
+http://hitectv.live/hls/stream8.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NGEO HD HINDI" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",NGEO HD HINDI
-http://103.81.104.222:80/hls/stream13.m3u8
+http://hitectv.live/hls/stream13.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY HD BANGLA " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",DISCOVERY HD BANGLA 
-http://103.81.104.222:80/hls/stream9.m3u8
+http://hitectv.live/hls/stream9.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ANIMAL PLANET HD
-http://103.81.104.222:80/hls/stream6.m3u8
+http://hitectv.live/hls/stream6.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC EARTH" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",BBC EARTH
-http://103.81.104.222:80/hls/stream5.m3u8
+http://hitectv.live/hls/stream5.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAVEL XP HD BAN" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",TRAVEL XP HD BAN
-http://103.81.104.222:80/hls/stream37.m3u8
+http://hitectv.live/hls/stream37.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR MOVIES " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR MOVIES 
-http://103.81.104.222:80/hls/stream3.m3u8
+http://hitectv.live/hls/stream3.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY PIX HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SONY PIX HD
-http://103.81.104.222:80/hls/stream1.m3u8
+http://hitectv.live/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",AXN
-http://103.81.104.222:80/hls/stream2.m3u8
+http://hitectv.live/hls/stream2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TEN SPORTS " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",TEN SPORTS 
-http://103.81.104.222:80/hls/stream34.m3u8
+http://hitectv.live/hls/stream34.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PTV SPORTS " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",PTV SPORTS 
-http://103.81.104.222:80/hls/stream11.m3u8
+http://hitectv.live/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY TEN 1 HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SONY TEN 1 HD
-http://103.81.104.222:80/hls/stream40.m3u8
+http://hitectv.live/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY TEN 2 HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SONY TEN 2 HD
-http://103.81.104.222:80/hls/stream39.m3u8
+http://hitectv.live/hls/stream39.m3u8
 #EXTINF:-1 tvg-id="BalkanErotic.svn" tvg-name="SONY SIX HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SONY SIX HD
-http://103.81.104.222:80/hls/stream10.m3u8
+http://hitectv.live/hls/stream10.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR SPORTS 1 HD
-http://103.81.104.222:80/hls/stream15.m3u8
+http://hitectv.live/hls/stream15.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR SPORTS 2 HD
-http://103.81.104.222:80/hls/stream16.m3u8
+http://hitectv.live/hls/stream16.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS SELECTE 1HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",STAR SPORTS SELECTE 1HD
-http://103.81.104.222:80/hls/stream12.m3u8
+http://hitectv.live/hls/stream12.m3u8
 #EXTINF:-1 tvg-id="BraZZersTV.us" tvg-name="NICK HINDI" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",NICK HINDI
-http://103.81.104.222:80/hls/stream23.m3u8
+http://hitectv.live/hls/stream23.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY YAY BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SONY YAY BANGLA
-http://103.81.104.222:80/hls/stream32.m3u8
+http://hitectv.live/hls/stream32.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MADINA TV " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",MADINA TV 
-http://103.81.104.222:80/hls/stream33.m3u8
+http://hitectv.live/hls/stream33.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ALJAZEERA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ALJAZEERA
-http://103.81.104.222:80/hls/stream35.m3u8
+http://hitectv.live/hls/stream35.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC NEWS " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",BBC NEWS 
-http://103.81.104.222:80/hls/stream36.m3u8
+http://hitectv.live/hls/stream36.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5S4bpSnrYZhTLSp9LPR2R0Wdfk-CcgVnghA&usqp=CAU" group-title="BDIX⊕2",& PICTURES
 http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="BDIX⊕2",& TV
