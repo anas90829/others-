@@ -568,7 +568,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8|User-Agent: HDPl
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS HD
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7592da00-d1b1-11ea-af5a-6f10b22fa1bf/461435/77760677.png" group-title="SPORTS CH",TEN-SPORTS.1
-http://103.81.104.222:80/hls/stream34.m3u8
+http://hitectv.live/hls/stream34.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109728890-41661800-7be1-11eb-9703-ac4fe63eb2c4.png" group-title="SPORTS CH",TEN-SPORTS.2
 http://digiiptv.ddns.net:25461/Rojob/12345/786
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS CH",SONY TEN 1 
@@ -750,7 +750,7 @@ http://hitectv.live/hls/stream20.m3u8
 #EXTINF:-1 tvg-id="Brazzers.ero" tvg-name="NAGORIK TV " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",NAGORIK TV 
 http://hitectv.live/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="hustler-blue" tvg-name="SOMOY NEWS" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",SOMOY NEWS
-http://103.81.104.222:80/hls/stream21.m3u8
+http://hitectv.live/hls/stream21.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CHANNEL 24" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",CHANNEL 24
 http://hitectv.live/hls/stream22.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ZEE BANGLA HD " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="BDIX⊕1",ZEE BANGLA HD 
