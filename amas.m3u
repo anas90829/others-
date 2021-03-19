@@ -198,15 +198,15 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MADANI TV BANGLA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848093-14b20f00-7c7a-11eb-92ad-6bea34709d3f.png" group-title="ISLAMIC CH",MADANI TV BANGLA
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN ISLAMIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="ISLAMIC CH",ATN ISLAMIC TV
-http://ipm.oncast.me:1931/iplived/app-atnislamictv.stream/chunks.m3u8
+http://?dWwzVTFJRFRwbG1acmhGYXlWRGEyRWpTblpUY25CbmUwWkdWa3BXV0kxVVYzTkZib3hFYUZ4a2RwNUVlcXhVV2l4MktSbERjbTl5YlZoRFJLSlZlelZITzRvV2IwbzNhcmhIVg==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAKKAH TV LIVE" tvg-logo="https://user-images.githubusercontent.com/80354303/110853705-24ff6500-82de-11eb-83e8-afbb3f0e52e1.png" group-title="ISLAMIC CH",MAKKAH TV LIVE
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MADINA TV LIVE" tvg-logo="https://user-images.githubusercontent.com/80354303/110853701-2335a180-82de-11eb-8591-c5d8d7a135fc.png" group-title="ISLAMIC CH",MADINA TV LIVE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL DAWAH TV" tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="ISLAMIC CH",AL DAWAH TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QTV BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110870564-e5914280-82f6-11eb-85f0-84b990aa4dc3.png" group-title="ISLAMIC CH",QTV BANGLA
-https://qtvbangla-hls.telelivebd.com/QTV/qtv.m3u8
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QTV BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110870564-e5914280-82f6-11eb-85f0-84b990aa4dc3.png" group-title="ISLAMIC CH",QTV BANGLA
+#https://qtvbangla-hls.telelivebd.com/QTV/qtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARY QTV PK.1" tvg-logo="https://user-images.githubusercontent.com/80354303/110853708-2597fb80-82de-11eb-97b1-4723638f2d55.png" group-title="ISLAMIC CH",ARY QTV PK.1
 http://?NWRrV3lFVU5ZdFdURlpWYmg5eWF6MFdaSVJIWjFaWFJscEZVbzkyYjVrR2RuaEVhd2sxY2haamFyNUdNMzVVUU54R013Wm1kWGQxY0k5RVpZWldZd1ZqU2FOV016NW1SeFZEVEQ5aWQ1RlRlTkZrUjRGSGUxOENPVGhuWjRFemRSbFhkSDFFYVlwMWN6bGpaMEExY2lSblo0dGlhME5VYXZ0a1N1RlVQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARY QTV PK.2" tvg-logo="https://user-images.githubusercontent.com/80354303/110853708-2597fb80-82de-11eb-97b1-4723638f2d55.png" group-title="ISLAMIC CH",ARY QTV PK.2
