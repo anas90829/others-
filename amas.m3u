@@ -610,9 +610,9 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809273/135408771.png" group-title="SPORTS CH",STAR SPORTS SELECT 2
 http://?eGRrV3lFVU5ZeFdURlpWYmg5Q2F6MFdaSVJIWnZaWFJsUldXU2wzUVBaRVp0MVdhNUZEVDJGVmV2bEZhTFJuVk1sMlRobFRXUUpUY3ZNalpYeG1kdGwxYWxObmEyWm5SeVJqVkUxMFo1QUZjd0ZVY3hkek1FNVVNeXRHY0NSelNLVmpkWU5qU1NkRWU1ZDBiamxIVkpCSFp6Sm5STXBYZVJSMFVKUmpNdU5IV1Q5bVd3b1haTnBWVVVwVWF2c21iUXBrV3hCRGI=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT 1HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="SPORTS CH",STAR SPORTS SELECT 1HD
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+http://digiiptv.ddns.net:25461/Rojob/12345/212
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS SELECT 2HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="SPORTS CH",STAR SPORTS SELECT 2HD
-http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+http://digiiptv.ddns.net:25461/Rojob/12345/198
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Star_Sports.svg/revision/latest/scale-to-width-down/340?cb=20100511072838" group-title="SPORTS CH",STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO CRICKET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest/scale-to-width-down/340?cb=20200527073450" group-title="SPORTS CH",ASTRO CRICKET
