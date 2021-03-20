@@ -705,8 +705,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8
 https://vootlivelinear.akamaized.net/hls/live/2013204/rsws_test_hindi/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS LIVE" tvg-logo="https://user-images.githubusercontent.com/78508217/109332133-e7cfb780-7887-11eb-9721-337e400add51.png" group-title="aTV-LIVE",T SPORTS LIVE
 http://?cWRrV3lFVU5ZQlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTDltYkhabmRybGxjdzFHT3ZaWFN5aFRSelIyYlhSblpVbERjVUpXYndZbVFKaFhXeWxsUWFoV1pVaG5XdFYxUk9wa2VvcDBTaE5rWjNOWE9vSkdjQmxtVW9SWGNDVjBiNVUzVlBaMmIyeFVjeEpuVlpOblZZSm1kaFpYYjJobmR5QTNZd2htYTNsR1Z6bDJjc1ozVU1SRmRLZEdjMUpWUXRKRk4=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFGvsZIM LIVE " tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",AFGvsZIM LIVE 
-http://51.210.227.133/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",LIVE SPORTS
+http://c1live.com:8081/c1-play/ipl/playlist.m3u8|Referer:http://c1live.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATAN-2" tvg-logo="https://user-images.githubusercontent.com/80354303/110755330-057f2280-8273-11eb-9c45-5a92c52d7fa6.png" group-title="aTV-LIVE",WATAN-2
 https://vsd123.mycdn.me/hls/1011381963396.m3u8/sig/g7iIfQOiwzI/expires/1615590517245/srcIp/118.179.96.65/clientType/0/srcAg/CHROME_ANDROID/mid/2263826767492/1011381963396_low/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PK-SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110755338-0748e600-8273-11eb-9c23-dbb5e86b0308.png" group-title="aTV-LIVE",PK-SPORTS
