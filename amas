@@ -302,7 +302,7 @@ http://?eWRrV3lFVU5ZRlhURlpWYmg5eWN6MFdaSVJIWjVaWFJscEZVb0YzYjVrR2RuaGtld2sxY2ha
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX 2" tvg-logo="https://user-images.githubusercontent.com/78508217/109848880-f698de80-7c7a-11eb-9351-2e1879596e55.jpeg" group-title="HINDI CH",SONY MAX 2
 http://?NGRrV3lFVU5ZRlhURlpWYmg5aWF6MFdaSVJIWnlaWFJscEZVb0YzYjVrR2RuaDBad2sxY2haamF6NUdNMzVVUU4xV01sSmtVMzFHYnpJRmFQZGxlb05GYkN4V2FOQkhSelVVVHNSRGV4czBiWGRVVndaSGN0WlZVbXRtWXFKamFDRm1jdUJ6VDNzVWF5SmtjVUZYUXlvbk5HcFhieEZVYnF0MkxTTldQ
 ##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX HD
-#http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
+##http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX FHD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX FHD
 http://fun6.xyz:8880/HINDI_MINIPLEX_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="https://user-images.githubusercontent.com/78508217/109848887-f8fb3880-7c7a-11eb-8b34-6f37f0afab20.png" group-title="HINDI CH",UTV ACTION
@@ -334,7 +334,8 @@ http://fun6.xyz:8880/HINDI_STAR_GOLD_SELECT_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://user-images.githubusercontent.com/78508217/107859078-704e6100-6e61-11eb-84fa-8f634d555afb.png" group-title="HINDI CH",& TV
 http://?MWRrV3lFVU5ZWlhURlpWYmg5Q2V6MFdaSVJIWnJaWFJscEZVb3AzYjVrR2RuaGtld2sxY2haamF1NUdNMzVVUU54R01ubDNVd01EYlB0MlN0NW1iMU5EVnpnblc1SlhZSlZsVzJaRmF3ZGpUSWxWU3paSFZEUldTcllIZVlORE9RNWthRjltYjFWMlZ2SjNLSkZ6WnhsR2NrbEViMXAwZFBSRlZ6OVdQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="HINDI CH",& TV HD
-http://?MVZIVG9Kak5qMVdlUzlpTTNsVGI0NVdSM0FUVHpsbmJtQnpWeFpITll0MGNDTmxlMFpsUjB3bWF1SldNeXBsYXVCbmMxbFZiVlZWY3FSRFR3dFdPbjVVUjRWR2JHQkhiczkwWTQwbWRoNVVjeEpGUm9wWFIwY2tNdzFXZTFFVVpEcDJaV1IxWjZabVd5SnpMdk5qV1psbld5bFdkSUpsYlJWR1RqUnpacXRXZXhaM1p6TW5lME5qVDFOVGFJTlVUWU4xY3FGbGFxTm1WMEFYWkNKVFNrQm5jSUIzYmFCSFJvUm5lazVtYTZGSE1NaFhVSmhrYVhOVllQMWtNdkpUY3pGbFF5cFhTbGRGVW5CM2RLeDBOeEVqWjU5aU55b0dTTmhYYk5sR1VwNTBkMlJtZTFnSGF2aFVlYVpYUUNoSGVRTlhTVmwzYVY1bU5SMVRQ
+http://c1live.com:80/tv/in-andtv.php|Referer:http://c1live.com/|tokenUrl:/4
+#http://?MVZIVG9Kak5qMVdlUzlpTTNsVGI0NVdSM0FUVHpsbmJtQnpWeFpITll0MGNDTmxlMFpsUjB3bWF1SldNeXBsYXVCbmMxbFZiVlZWY3FSRFR3dFdPbjVVUjRWR2JHQkhiczkwWTQwbWRoNVVjeEpGUm9wWFIwY2tNdzFXZTFFVVpEcDJaV1IxWjZabVd5SnpMdk5qV1psbld5bFdkSUpsYlJWR1RqUnpacXRXZXhaM1p6TW5lME5qVDFOVGFJTlVUWU4xY3FGbGFxTm1WMEFYWkNKVFNrQm5jSUIzYmFCSFJvUm5lazVtYTZGSE1NaFhVSmhrYVhOVllQMWtNdkpUY3pGbFF5cFhTbGRGVW5CM2RLeDBOeEVqWjU5aU55b0dTTmhYYk5sR1VwNTBkMlJtZTFnSGF2aFVlYVpYUUNoSGVRTlhTVmwzYVY1bU5SMVRQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURES" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI CH",& PICTURES
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURES HD.1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HINDI CH",& PICTURES HD.1
