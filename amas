@@ -397,7 +397,8 @@ http://fun6.xyz:8880/HINDI_COLORS_CINEPLEX/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV KADAK" tvg-logo="https://user-images.githubusercontent.com/78508217/109848937-0284a080-7c7b-11eb-9734-e4f586820b93.png" group-title="HINDI CH",BTV KADAK
 https://vsd135.mycdn.me/hls/1129203239602.m3u8/sig/FWQzn3ICK88/expires/1615590198078/srcIp/118.179.96.65/clientType/0/srcAg/CHROME_ANDROID/mid/2444063022770/1129203239602_low/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U MOVIES" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="HINDI CH",B4U MOVIES
-http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6569/index.m3u8
+http://c1live.com:80/tv/in-b4umovies.php|Referer:http://c1live.com/|tokenUrl:/4
+#http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6569/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U KADAK" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="HINDI CH",B4U KADAK
 https://itvorigin.multitvsolution.com:443/idvo/moviehouse_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U PLUS" tvg-logo="https://www.b4uplus.com/images/logo.png" group-title="HINDI CH",B4U PLUS
