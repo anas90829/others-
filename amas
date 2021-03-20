@@ -570,7 +570,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8|User-Agent: HDPl
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS HD
 http://c1live.com:80/tv/bd-gazi.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7592da00-d1b1-11ea-af5a-6f10b22fa1bf/461435/77760677.png" group-title="SPORTS CH",TEN-SPORTS.1
-http://hitectv.live/hls/stream34.m3u8
+http://c1live.com:8081/c1-play/osn-cricket/chunks.m3u8|Referer:http://c1live.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109728890-41661800-7be1-11eb-9703-ac4fe63eb2c4.png" group-title="SPORTS CH",TEN-SPORTS.2
 http://digiiptv.ddns.net:25461/Rojob/12345/786
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS CH",SONY TEN 1 
@@ -1027,22 +1027,7 @@ http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
 http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX⊕3",ZEE TV
 http://10.16.100.201/hindi/ztv_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 1" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 1
-http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 2" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 2
-http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 3" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 3
-http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 4" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 4
-http://fun6.xyz:8880/HINDI_CINEMA_04/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 5" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 5
-http://fun6.xyz:8880/HINDI_CINEMA_05/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 6" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 6
-http://fun6.xyz:8880/HINDI_CINEMA_06/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 7" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 7
-http://fun6.xyz:8880/HINDI_CINEMA_07/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA PLEX 8" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="HINDI.CINEMA.24/7H",CINEMA PLEX 8
-http://fun6.xyz:8880/HINDI_CINEMA_08/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK ||BANI||" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="KIDS ENT.",NICK ||BANI||
 http://?dGRrV3lFVU5ZNVdURlpWYmg5eVp6MFdaSVJIWm9aWFJscEZVb1IzYjVrR2RuaFVid2sxY2haamF2NUdNMzVVUU54Mk1GTlZkblIxZE9kMllVcEdNM04xUnd0V1JQQm5jMGczUkY1MmJVRjJMWkpVU29WMktJZEdiaFpuVHJRME5CaHpjS3hXTWhWMFpybG5ZekYxUXpobVZDeG1lNUZqYklWMFFtRlZQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK ||HINDI||" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS ENT.",NICK ||HINDI||
@@ -1067,9 +1052,9 @@ http://?PT1nYVA5U2UyWUhOdGxWVkVwM1RGbFdhdjVFYnJWM2Q2WlVkeUUzYjNwWFF0TkhWNGxtUXdk
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6140/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||ENG||" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||ENG||
 https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HINDI||.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HINDI||.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HIN||.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.1
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HINDI||.2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HIN||.2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.2
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN HD+" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408676.png" group-title="KIDS ENT.",CN HD+
 http://pn.tvott.info:80/477845056156344/477845056156344/83600
