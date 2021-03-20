@@ -301,8 +301,8 @@ http://?cGRrV3lFVU5ZbFdURlpWYmg5Q2J6MFdaSVJIWjNaWFJscEZVb1ozYjVrR2RuaEVld2sxY2ha
 http://?eWRrV3lFVU5ZRlhURlpWYmg5eWN6MFdaSVJIWjVaWFJscEZVb0YzYjVrR2RuaGtld2sxY2haamE1NUdNMzVVUU5SSE1MQnpRNWwzWjJaa05OQlRaekZrYVhOVE1TcG5RWU5WZTJkRWVIVjJTTWhHU3NaMGM1SldWc04zTE5oMmQ0UjNiNFZUYVlWMFZ0ZEZSeFFqU0g5bVVCNTJLSUZIYTRsMVlPTldQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX 2" tvg-logo="https://user-images.githubusercontent.com/78508217/109848880-f698de80-7c7a-11eb-9351-2e1879596e55.jpeg" group-title="HINDI CH",SONY MAX 2
 http://?NGRrV3lFVU5ZRlhURlpWYmg5aWF6MFdaSVJIWnlaWFJscEZVb0YzYjVrR2RuaDBad2sxY2haamF6NUdNMzVVUU4xV01sSmtVMzFHYnpJRmFQZGxlb05GYkN4V2FOQkhSelVVVHNSRGV4czBiWGRVVndaSGN0WlZVbXRtWXFKamFDRm1jdUJ6VDNzVWF5SmtjVUZYUXlvbk5HcFhieEZVYnF0MkxTTldQ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX HD
-http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX HD
+#http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX FHD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX FHD
 http://fun6.xyz:8880/HINDI_MINIPLEX_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="https://user-images.githubusercontent.com/78508217/109848887-f8fb3880-7c7a-11eb-8b34-6f37f0afab20.png" group-title="HINDI CH",UTV ACTION
@@ -701,7 +701,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALKASS SPORTS" tvg-logo="https://m3u-editor.com/storage/channel-logos/df209a30-4423-11eb-8740-13a221f1e2ec/1004497/165678619.png" group-title="SPORTS CH",ALKASS SPORTS
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 LEGENDS HINDI VOOT" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",T20 LEGENDS HINDI VOOT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 LEGENDS HINDI" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",T20 LEGENDS HINDI
 https://vootlivelinear.akamaized.net/hls/live/2013204/rsws_test_hindi/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS LIVE" tvg-logo="https://user-images.githubusercontent.com/78508217/109332133-e7cfb780-7887-11eb-9721-337e400add51.png" group-title="aTV-LIVE",T SPORTS LIVE
 http://?cWRrV3lFVU5ZQlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTDltYkhabmRybGxjdzFHT3ZaWFN5aFRSelIyYlhSblpVbERjVUpXYndZbVFKaFhXeWxsUWFoV1pVaG5XdFYxUk9wa2VvcDBTaE5rWjNOWE9vSkdjQmxtVW9SWGNDVjBiNVUzVlBaMmIyeFVjeEpuVlpOblZZSm1kaFpYYjJobmR5QTNZd2htYTNsR1Z6bDJjc1ozVU1SRmRLZEdjMUpWUXRKRk4=
@@ -1053,7 +1053,7 @@ http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6140/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||ENG||" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||ENG||
 https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HIN||.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.1
-https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
+http://c1live.com:80/tv/en-cn.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN ||HIN||.2" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408675.png" group-title="KIDS ENT.",CN ||HIN||.2
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN HD+" tvg-logo="https://m3u-editor.com/storage/channel-logos/554ceb20-239f-11eb-944c-f1faf4d52786/809271/135408676.png" group-title="KIDS ENT.",CN HD+
