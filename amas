@@ -605,11 +605,13 @@ http://pn.tvott.info:80/live/477817111363246/477817111363246/83393.ts
 https://hls.rtasports.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTA-SPORTS.2" tvg-logo="https://m3u-editor.com/storage/channel-logos/df209a30-4423-11eb-8740-13a221f1e2ec/1004497/165678618.png" group-title="SPORTS CH",RTA-SPORTS.2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Afghanistan/6d7b260dcf933e6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="SPORTS CH",STAR SPORTS 1HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1HD.1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="SPORTS CH",STAR SPORTS 1HD.1
 http://103.251.247.106:3001/aostv/60084d38af05178ef75e1e10/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD.2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="SPORTS CH",STAR SPORTS 1 HD.2
 http://digiiptv.ddns.net:25461/Rojob/12345/661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="SPORTS CH",STAR SPORTS 2HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1HD HINDI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="SPORTS CH",STAR SPORTS 1HD HINDI
+http://c1live.com:80/tv/sp-starsports1.php|Referer: http://c1live.com/|tokenUrl:/4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2HD.1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="SPORTS CH",STAR SPORTS 2HD.1
 http://103.251.247.106:3001/aostv/60084d8baf05178ef75e1e12/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD.2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="SPORTS CH",STAR SPORTS 2 HD.2
 http://digiiptv.ddns.net:25461/Rojob/12345/200
