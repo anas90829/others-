@@ -581,8 +581,8 @@ http://c1live.com:80/tv/bd-gazi.php|Referer: http://c1live.com/|tokenUrl:/4
 http://c1live.com:8081/c1-play/osn-cricket/chunks.m3u8|Referer:http://c1live.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109728890-41661800-7be1-11eb-9703-ac4fe63eb2c4.png" group-title="SPORTS CH",TEN-SPORTS.2
 http://digiiptv.ddns.net:25461/Rojob/12345/786
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PK-SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110755338-0748e600-8273-11eb-9c23-dbb5e86b0308.png" group-title="aTV-LIVE",PK-SPORTS
-https://github.com/aTV2908/apkfile/raw/main/pksp.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PK-SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110755338-0748e600-8273-11eb-9c23-dbb5e86b0308.png" group-title="SPORTS CH",PK-SPORTS
+https://raw.githubusercontent.com/aTV2908/apkfile/main/pksp.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS CH",SONY TEN 1 
 http://?PWdXZVRWak1NbFdjbXRHV29KWE5uWlRNS2RtTnh4R2M2UkhWWFJYYnBsbGRpSkVVMDUyVXJzeVZPTlhXRGRVVnFWM2Q1OWtkUlp6TnF4MlpEcG1iWXBuWllKSGVwUnpkanRTVDNkelFySlVUUVJUVzB4V1UzSnpkaUJWYVZkM0t3dzJVdVZVT3lrV1pJcFdOMU5sTndoemNXUkdkUGhWVTRGRldXSkdWVkZYVG1KRmQ1QnpjeVlGUm5aRE80UjNMNmxtUTBBSGI1aEVTSnQwYUt0VVZ3a0VOdVpVYnpaelN5RlhWcVprYjM0MGJwZFRNTXhFWnJoekt5azFVQ3QyY0NOR1ZSSkRkNWNqY0hGVlUxcFdPcWRFU085V2VQTldTNk5qZXlvVVc2bEZN
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS CH",SONY TEN 1 HD
