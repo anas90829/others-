@@ -401,7 +401,7 @@ http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6592/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS CINEPLEX FHD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="HINDI CH",COLORS CINEPLEX FHD
 http://fun6.xyz:8880/HINDI_COLORS_CINEPLEX/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV KADAK" tvg-logo="https://user-images.githubusercontent.com/78508217/109848937-0284a080-7c7b-11eb-9734-e4f586820b93.png" group-title="HINDI CH",BTV KADAK
-https://vsd135.mycdn.me/hls/1129203239602.m3u8/sig/FWQzn3ICK88/expires/1615590198078/srcIp/118.179.96.65/clientType/0/srcAg/CHROME_ANDROID/mid/2444063022770/1129203239602_low/index.m3u8
+https://github.com/aTV2908/apkfile/raw/main/btka.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U MOVIES" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="HINDI CH",B4U MOVIES
 http://c1live.com:80/tv/in-b4umovies.php|Referer:http://c1live.com/|tokenUrl:/4
 #http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6569/index.m3u8
@@ -573,9 +573,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE HD MUSIC" tvg-logo="https://user-images.githubusercontent.com/78508217/109850170-68bdf300-7c7c-11eb-9fcf-e8dc2d88e9a9.png" group-title="MUSIC CH",ONE HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS.1
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS.2
 http://c1live.com:80/tv/bd-gazi.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7592da00-d1b1-11ea-af5a-6f10b22fa1bf/461435/77760677.png" group-title="SPORTS CH",TEN-SPORTS.1
 http://c1live.com:8081/c1-play/osn-cricket/chunks.m3u8|Referer:http://c1live.com/
