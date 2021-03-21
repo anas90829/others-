@@ -581,6 +581,8 @@ http://c1live.com:80/tv/bd-gazi.php|Referer: http://c1live.com/|tokenUrl:/4
 http://c1live.com:8081/c1-play/osn-cricket/chunks.m3u8|Referer:http://c1live.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109728890-41661800-7be1-11eb-9703-ac4fe63eb2c4.png" group-title="SPORTS CH",TEN-SPORTS.2
 http://digiiptv.ddns.net:25461/Rojob/12345/786
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PK-SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110755338-0748e600-8273-11eb-9c23-dbb5e86b0308.png" group-title="aTV-LIVE",PK-SPORTS
+https://github.com/aTV2908/apkfile/raw/main/pksp.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS CH",SONY TEN 1 
 http://?PWdXZVRWak1NbFdjbXRHV29KWE5uWlRNS2RtTnh4R2M2UkhWWFJYYnBsbGRpSkVVMDUyVXJzeVZPTlhXRGRVVnFWM2Q1OWtkUlp6TnF4MlpEcG1iWXBuWllKSGVwUnpkanRTVDNkelFySlVUUVJUVzB4V1UzSnpkaUJWYVZkM0t3dzJVdVZVT3lrV1pJcFdOMU5sTndoemNXUkdkUGhWVTRGRldXSkdWVkZYVG1KRmQ1QnpjeVlGUm5aRE80UjNMNmxtUTBBSGI1aEVTSnQwYUt0VVZ3a0VOdVpVYnpaelN5RlhWcVprYjM0MGJwZFRNTXhFWnJoekt5azFVQ3QyY0NOR1ZSSkRkNWNqY0hGVlUxcFdPcWRFU085V2VQTldTNk5qZXlvVVc2bEZN
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS CH",SONY TEN 1 HD
@@ -719,8 +721,6 @@ http://?cWRrV3lFVU5ZQlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTDltYkhabmRybGxjdzFHT3Za
 http://c1live.com:8081/c1-play/ipl/playlist.m3u8|Referer:http://c1live.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATAN-2" tvg-logo="https://user-images.githubusercontent.com/80354303/110755330-057f2280-8273-11eb-9c45-5a92c52d7fa6.png" group-title="aTV-LIVE",WATAN-2
 https://vsd123.mycdn.me/hls/1011381963396.m3u8/sig/g7iIfQOiwzI/expires/1615590517245/srcIp/118.179.96.65/clientType/0/srcAg/CHROME_ANDROID/mid/2263826767492/1011381963396_low/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PK-SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110755338-0748e600-8273-11eb-9c23-dbb5e86b0308.png" group-title="aTV-LIVE",PK-SPORTS
-https://vsd66.mycdn.me/hls/1129113914034.m3u8/sig/KcBgX4cWpFo/expires/1615590398297/srcIp/118.179.96.65/clientType/0/srcAg/CHROME_ANDROID/mid/2443941781170/1129113914034_low/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE CRICKET T20" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",LIVE CRICKET T20
 http://digiiptv.ddns.net:25461/Rojob/12345/206
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE CRICKET 1" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="aTV-LIVE",LIVE CRICKET 1
