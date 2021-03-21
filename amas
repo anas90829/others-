@@ -328,7 +328,7 @@ http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="HINDI CH",STAR BHARAT HD
 http://digiiptv.ddns.net:25461/Rojob/12345/774
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="HINDI CH",STAR GOLD
-http://45.153.33.137:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
+http://c1live.com:80/tv/in-stargold.php|Referer:http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848904-fbf62900-7c7a-11eb-94a8-8e1a14227533.png" group-title="HINDI CH",STAR GOLD HD
 http://103.251.247.106:3001/aostv/600835faaf05178ef75e1dff/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV GOLD" tvg-logo="https://user-images.githubusercontent.com/80354303/110840814-5f153a80-82cf-11eb-9863-9efe3cad193b.png" group-title="HINDI CH",UTSAV GOL
