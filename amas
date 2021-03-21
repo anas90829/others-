@@ -222,10 +222,10 @@ http://?MWRrV3lFVU5ZTlhURlpWYmg5aWV6MFdaSVJIWnlaWFJscEZVb2wzYjVrR2RuaDBid2sxY2ha
 http://?b2RrV3lFVU5ZaFdURlpWYmg5eWR6MFdaSVJIWjVaWFJscEZVb3gyYjVrR2RuaFVhd2sxY2haamFvNUdNMzVVUU5kbk1sTldNWGxYZFFoME1LdGtkc1JXTjZKSE0ycG5SRmxWTkRGMGN4OUdWeXBYZXhsR1YxUUdiNGtHTk9sbmJ5dG1lbkZXVm9GMll3QkRiVE5YVXljWE5xdEVVQ3BsZDBWamFYTldQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BANGLA CINEMA.2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="IND.BANGLA",ZEE BANGLA CINEMA.2
 http://?PW9YZE1obU0yTTJjNUoxTHljWE96aG5iRmRETU5aWGV1WkdNWEZuYzBnMVN6SjBVblJuVkdSRGJxaG5ZeEluV3E1bWF5VlhXdFZWVnNwR05NQjNhNVluVEZoWFpzWkVjc3gyVGpoVGJ1Rm1UeEZuVUVsbmVGUnpSeUFYZDVWVFFsTmthb1pGVktOM2ExVW5ScmRXVU5WRmVJUnpTMDlXYzVKR2RHVm1jbjFXWU54MFRZUmpkeGhEWnBKemEwNVVTTVoyTGpkbk5CdDJhdHBIY3pJWFYyRlVWemQxWjNzV1RFQm5kM0kzY0JWWGNsSlhabnRVZXJGWFVySlROSmRXWnhWMmRQQm5lNU1XTnVKVFo0cGthdmtXVXlZM2JPOXlMd29tZUNCbk1zTlZZ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA.1" tvg-logo="https://user-images.githubusercontent.com/78508217/109337416-f8376080-788e-11eb-82b1-2078ef131891.png" group-title="IND.BANGLA",SUN BANGLA.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA." tvg-logo="https://user-images.githubusercontent.com/78508217/109337416-f8376080-788e-11eb-82b1-2078ef131891.png" group-title="IND.BANGLA",SUN BANGLA
 http://103.251.247.105:3001/aostv/5fafa2a66f4e8cc0b51d8d34/aos.m3u8|tokenUrl:/4_4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109337416-f8376080-788e-11eb-82b1-2078ef131891.png" group-title="IND.BANGLA",SUN BANGLA.2
-http://pn.tvott.info:80/live/477817111363246/477817111363246/83740.ts
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109337416-f8376080-788e-11eb-82b1-2078ef131891.png" group-title="IND.BANGLA",SUN BANGLA.2
+#http://pn.tvott.info:80/live/477817111363246/477817111363246/83740.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="https://user-images.githubusercontent.com/78508217/109337125-8bbc6180-788e-11eb-9a18-efc8584e4331.png" group-title="IND.BANGLA",COLORS BANGLA
 http://?eWRrV3lFVU5ZZFhURlpWYmg5Q2F6MFdaSVJIWjRaWFJscEZVb0ozYjVrR2RuaFVhd2sxY2haamFuNUdNMzVVUU5oR01wSkZWSWhGYTFvR1dPRmpRMGhrVEJKVk5MNTJZcUJWYjRjbGNWSm5kaHBXV3dKM1ZvWkRaNHAyVjVkbFI2aFdjNWRFYTNCVlIwSm1hQngyWldCbk1ReEdXdFJqYk5KR2R0aFRQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA HD.1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="IND.BANGLA",COLORS BANGLA HD.1
@@ -274,13 +274,13 @@ https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/in
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PROTIDIN TIME" tvg-logo="https://user-images.githubusercontent.com/78508217/109848155-24315800-7c7a-11eb-801c-1192d84fb822.png" group-title="IND.BANGLA",PROTIDIN TIME
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.IN" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.IN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.IN" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.1
 http://?cGRrV3lFVU5ZNVdURlpWYmg5Q2N6MFdaSVJIWnBaWFJscEZVb3AzYjVrR2RuaFVid2sxY2haamFwNUdNMzVVUU5CWE1aQjNWSE4wYjVrelYxNTJTMHhrWTFBM1J4cEhieWtuY1FobmRSUnpRQ2wwUTZCbmF3YzJMUk5uUlB4bWFHZERkVFZVV0lsMFp1RmxlVVpVTXpSWE5GQlZSRlJVYjBKalNIUlRQ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.ASIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.ASIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL.ASIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848857-eed93a00-7c7a-11eb-9aab-ce3eb5815954.jpeg" group-title="HINDI CH",SONY PAL.2
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6626/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.IN" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.IN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.IN" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.1
 http://?c2RrV3lFVU5ZaFhURlpWYmg5eWF6MFdaSVJIWm5aWFJscEZVb2wyYjVrR2RuaDBkd2sxY2haamEwNUdNMzVVUU54bU1LVkZVaWxVY3RSVVd0WjNLNE5WYzBobmNXeEdXNFJuYnJJMWJXSnpTVUZUVTBOM1lFeEdjeXRHWktWeksyaERlRGRGZDJsa1F2UnpacmREZVVkSFZpaFhUM3RHZGxKektaMVVQ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.ASIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.ASIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB.ASIA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB.2
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6571/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB HD.1" tvg-logo="https://user-images.githubusercontent.com/78508217/109848860-f00a6700-7c7a-11eb-9614-d532837364d4.jpeg" group-title="HINDI CH",SONY SAB HD.1
 http://?MGRrV3lFVU5ZOVdURlpWYmg5U2J6MFdaSVJIWnJaWFJscEZVb04zYjVrR2RuaGthd2sxY2haamF4NUdNMzVVUU5oR001YzBRemxGZVp0MmNFcEdTNE5FWkdka1VQZDNhbVJXT1F0MmJIZDBkd2NtYzExRWVLUm1TU0ZuY3YwRVJURjBkeU1HTTVjVU4weG1iajEyS1FsSFVxQm5VSEpFYUgxMExORlVQ
@@ -304,21 +304,21 @@ http://?eWRrV3lFVU5ZRlhURlpWYmg5eWN6MFdaSVJIWjVaWFJscEZVb0YzYjVrR2RuaGtld2sxY2ha
 http://?NGRrV3lFVU5ZRlhURlpWYmg5aWF6MFdaSVJIWnlaWFJscEZVb0YzYjVrR2RuaDBad2sxY2haamF6NUdNMzVVUU4xV01sSmtVMzFHYnpJRmFQZGxlb05GYkN4V2FOQkhSelVVVHNSRGV4czBiWGRVVndaSGN0WlZVbXRtWXFKamFDRm1jdUJ6VDNzVWF5SmtjVUZYUXlvbk5HcFhieEZVYnF0MkxTTldQ
 ##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX HD
 ##http://45.153.33.134:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
-##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX FHD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX FHD
-#http://fun6.xyz:8880/HINDI_MINIPLEX_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIPLEX FHD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848883-f7ca0b80-7c7a-11eb-9760-21c1b5f668ce.png" group-title="HINDI CH",MINIPLEX FHD
+http://fun6.xyz:8880/HINDI_MINIPLEX_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV ACTION" tvg-logo="https://user-images.githubusercontent.com/78508217/109848887-f8fb3880-7c7a-11eb-8b34-6f37f0afab20.png" group-title="HINDI CH",UTV ACTION
-http://digiiptv.ddns.net:25461/Rojob/12345/830
-#http://fun6.xyz:8880/HINDI_UTV_ACTION/index.m3u8
+#http://digiiptv.ddns.net:25461/Rojob/12345/830
+http://fun6.xyz:8880/HINDI_UTV_ACTION/index.m3u8
 ##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES " tvg-logo="https://user-images.githubusercontent.com/78508217/109848890-f993cf00-7c7a-11eb-9e98-3d10a93dfa63.png" group-title="HINDI CH",UTV MOVIES 
 #http://45.153.33.137:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848893-fa2c6580-7c7a-11eb-9509-5fc469db36ec.png" group-title="HINDI CH",UTV HD
-http://?PWtIZG9WRmNtRm5ldGhGTlZaemNvUkRObU5WYUVSWFphZFVUdWR6WktaVFMxTWtNdFozTW9CWFdtcEdOS1IwYjYxa2VSZFZjNHhHVDVsMFlyTWxiTDFHYzZORGF5SW5jV0JUV3ZJV2M1OUdhSkZUUm9aSFN1eFVSMmcwWjZKWGFIaDFTMU5VYkRSa1NZcG5TQnAxY05kamRDQjFZcWhsVnRsbWQ2TnpUWjFHTkJsV2N5a0RkRk5YUXk1VWExWmtZSmhUTjJobVkyVVhhM1lVYkZWRWN1UmtWNkZsZDJaRk0wUkhXWU5EYVdwWGF1cEhibVptWTFaMlVacFZPeTFHT290aVYwQjFhTjlVTnBkR1d1dFdXUkZEUjVzV1RLWlhSV05tYXdwa1Q0cEhPdHRTU0I5a1R3ODJjenN5UnVKV2Q1VlhUMzBVWXJwVlcycEhjaVZuTUlSRU01WWxiTFozVG5Oa1kySkVlMFlUZWsxbWNYQnpVM1JHYnNWbVdVSkZaMmREYXhrWGNadDJibVYzU21obGQzNDJkSnAxS3U5V1NZWm1lMU1YUVJsR1N4Y0hlQmRrY29Cblc1OUdNeFIyTHZSWGF6RW1XckkyYjJWVWMxVkVSNmRqV1NsMFo2bDJaS2RuWm9CVmV2TnpkcFpWZDBGalVhZGpibEJuV0k5V1NDVmtlMFFrUnpGWE53cDNOQ2RFUzJjbVJUTkVlMUZrZEpKVlJXNW1kMFptVkdwa1oyNEdTNDBtVkgxbWFIbFRUQjltZXVaSFZ5TjJaQzVXUzBRMWQxNTJkT0pqTXdRSGNudHlNSjlFV2s5bWF3Z1VjSzFrZXlRRVdMeEdTeFp6UWoxV2VQUjNaRnAzS2hSRWV6NDJWcUprWm9oVFA=
+http://fun6.xyz:8880/HINDI_UTV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="https://user-images.githubusercontent.com/78508217/109219863-61ad6580-77e2-11eb-94cf-ad5ea79010a5.png" group-title="HINDI CH",STAR PLUS
 http://103.251.247.106:3001/aostv/60083016af05178ef75e1df1/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848896-fac4fc00-7c7a-11eb-8ef7-2dfb889a63f6.png" group-title="HINDI CH",STAR PLUS HD
 http://digiiptv.ddns.net:25461/Rojob/12345/152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV PLUS " tvg-logo="https://user-images.githubusercontent.com/80354303/110840150-97684900-82ce-11eb-9590-9b4ea2aee663.png" group-title="HINDI CH",UTSAV PLUS 
-http://208.115.215.42/Utsav_Plus_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV PLUS" tvg-logo="https://user-images.githubusercontent.com/80354303/110840150-97684900-82ce-11eb-9590-9b4ea2aee663.png" group-title="HINDI CH",UTSAV PLUS 
+http://?PWtIZG9WRmNtRm5hdGhGTlZaemN1UkRObU5WYUVwV1phZFVUdWREYUtaVFMxTWtNelozTW9CWFdtWkhOS1IwYjYxRWRTNVVPbHBWYm90aVVqbERhME1uVndnME1rdFdhTnQwYUU5R1NvZEhheVkzY3poWE5rVmtkeWxWY3hSWE1VdGtaNDkwTGxSV2R0QlhaNlJrUXl0eVpobFVXUU56S3B4V1Z5SlhTcXhXWUk1V2VIUm5lSTlpUjJOa1lwSjFLUmgyYjJkM2FxTlZadk5EZTFKak0yZGtaeEZWWm01RU5ERlhSb2hYUzNKVGR4WVVSbGxEVDROVGJITlhWWFZYUnJFVlVqbFVhd2NGTVl4bVJ6QjFiNGtXUXZCSGR4eFVWU0oyWkJORFVTWjNRNUZGTjRrVVVYRlhSd0FWVWl0eWFyRlZhc1JWYW9kMUs2MUdOcDFHYUdWVVpsZFRib3BtWjVrMU1zcEdVNjFtZXJsWGUwUldidHBGYnJnV2NUeFVNNXhFZDB4VVF0RlhRWUJsZEZaamRDeEdlRGhUWXQ5bWVPaFVTM1pIYnhrbmRUSlVhNUVuWVd0U05vRm1NTFZYVDJabmFoSjBaQ0owZG1GV1F5RURNcmxWTVhobmNNbG1WMk5UV1FOa2JvNUVVUWQzTXI1RVJwbDNjeEozWnhrRWNURkdkaXhVY2lSbGFuSkZkQlpVTW1sWGNaQjNNMlEzZDFSV1V3UnpMeEZtVEpWSE1QdG1Vc1YyYkZSR2IzWUhWWFZGWnpwbFZ1NW1OSXBHZVRCM0xySXpienNVV3JsbFVxTkRkSE5EZDJGM05GOVdOMmNsZXpOMVpUQkhib0puVnRkRVdKbFhidjgwWVROamU0VVVUT3htVDNOWFA=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT" tvg-logo="https://user-images.githubusercontent.com/78508217/109880969-bf89f380-7ca1-11eb-9c13-12b90e6d92ab.png" group-title="HINDI CH",STAR BHARAT
 http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="HINDI CH",STAR BHARAT HD
@@ -327,8 +327,8 @@ http://digiiptv.ddns.net:25461/Rojob/12345/774
 http://45.153.33.137:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=RED_-fV46RF2-h4o5g4r9F01mA==,1613967623.4469430800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848904-fbf62900-7c7a-11eb-94a8-8e1a14227533.png" group-title="HINDI CH",STAR GOLD HD
 http://103.251.247.106:3001/aostv/600835faaf05178ef75e1dff/aos.m3u8|tokenUrl:/4_4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV GOLD FHD" tvg-logo="https://user-images.githubusercontent.com/80354303/110840814-5f153a80-82cf-11eb-9863-9efe3cad193b.png" group-title="HINDI CH",UTSAV GOLD FHD
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV GOLD" tvg-logo="https://user-images.githubusercontent.com/80354303/110840814-5f153a80-82cf-11eb-9863-9efe3cad193b.png" group-title="HINDI CH",UTSAV GOL
+http://?PWdIZG9WRmNtRm5jdGhGTlZaemMzUkRObU5WYUUxV1phZFVUdWRUZUtaVFMxTWtNd1ozTW9CWFdtMUdOS1IwYjYxVWNSQm5ka2gxVjFwWGREcEZiNjlXV3dNelFyc0Nhc0ZVTk1aRGRvcG1kVWRFVFQ1MlJJdGtSQnBHZFFkR1J6SmpjcFpWTWlaMlk1TkhNTVpHTXg0MmR5d1diM1FuU3JkMGNPVlRVVGgyZHdSMWQ0b2thcWgyYXg4bVZ2eDJjb0ZHU3VWSGFSOVNPMjhTZWtaVE14cDFhekpsUkxaM1N5MG1ZMmczUXNSRWF6bzJUNVpFTnlCMVFUcEhkUXBHUndNVlp0WmphMzkyVDYxbVR5WjFUMVVHTlp0V1QwRlRWRlZrYXRSbVZzTmxadVpqVHVGVlJadG1ZUU4zS0RKMmRXRmxZUDFrYzZGVE9tcDFjUjVtTTA1RU8zVWxiYU5XZFJkald6dEdaUGxqVVBsblFoUlVleUlqZUZkRlV0SlVVd05FZHB4V1FEbEhTeGgxZG5aR2RYQlZVNEZYUnFobVoxY1dZeVEzVEROR00xSlhlenAxSzZkMlZ2UlZlTlpWV3ZobU4zWjNjcGRrZU1kVFRzTlZXcHBFTlg5RWF4NG1ia1pWVkJaemI1SlZUMW9tYnFsVlY1VUdhWDVHUzE1RU00cEhlMUlEYzVGR01ydEVPb3BVU1JoR1RxVkhXM1FEZEhCektQTnpZdnRDZTBsRGNEQm5iWEJGTmtGRmM1bzJSeEkyTDBWVGVLUmtXNVozTVNkVVZzSnpaNGhFUjRKbVN5VjFUd2gzY0k5R1V6ZDBTdmRqZTRCblZ4SW1lM0pIVldoalozd21kNDlDYnBkM1oyWVZieGdGZTNGVVA=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD 2" tvg-logo="https://user-images.githubusercontent.com/78508217/109848909-fc8ebf80-7c7a-11eb-8883-ec0596382ac8.png" group-title="HINDI CH",STAR GOLD 2
 http://digiiptv.ddns.net:25461/Rojob/12345/783
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848917-fef11980-7c7a-11eb-8b98-fbed0f04024e.png" group-title="HINDI CH",STAR GOLD SELECT HD
