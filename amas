@@ -316,7 +316,7 @@ http://fun6.xyz:8880/HINDI_UTV_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848893-fa2c6580-7c7a-11eb-9509-5fc469db36ec.png" group-title="HINDI CH",UTV HD
 http://fun6.xyz:8880/HINDI_UTV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="https://user-images.githubusercontent.com/78508217/109219863-61ad6580-77e2-11eb-94cf-ad5ea79010a5.png" group-title="HINDI CH",STAR PLUS
-http://103.251.247.106:3001/aostv/60083016af05178ef75e1df1/aos.m3u8|tokenUrl:/4_4
+http://c1live.com:80/tv/in-starplus.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848896-fac4fc00-7c7a-11eb-8ef7-2dfb889a63f6.png" group-title="HINDI CH",STAR PLUS HD
 http://digiiptv.ddns.net:25461/Rojob/12345/152
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV PLUS" tvg-logo="https://user-images.githubusercontent.com/80354303/110840150-97684900-82ce-11eb-9590-9b4ea2aee663.png" group-title="HINDI CH",UTSAV PLUS 
