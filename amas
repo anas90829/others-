@@ -259,7 +259,7 @@ http://?PWNYZVRWak1NbG1jbXRHV29KWE41WlRNS2RtTnhwSGM2UlhXUHQyYTVjMlpqWldWd2QyS3dN
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SANGEET BANGLA.2" tvg-logo="https://user-images.githubusercontent.com/78508217/109848144-22679480-7c7a-11eb-8992-f803a3a7de31.png" group-title="IND.BANGLA",SANGEET BANGLA.2
 http://?c2wzVTFJRFRwZG5acmhGYXlWeloyRWpTblpUYzJCbmUwRjJRU2RHVnFwRk5qVlVkdXRVWTJkamVueGtTdWxuY2hoR1MzSUdjSFIwYkhWRFpscGtUdnRXUlJoVFVTNVdiSEpIYllaM2JSbEhUU1ZVVHhaemFLbFRab05YZW05R1RzRmpkYXBYYXNobFYwbGtWd3AyZEdkblU2TmtNbHQyYW1GblppaDNLdWh6YVBGR2UxeEdOVmRFVUtSR2RWbDBTU3htVTNkMlVqaG1lSXBtUUVsRlZrVjFab3RDYU1OSGJ0QmxNMHBFTklaWFczRkZXdVIwZDFZV2NRdEVhb3BXUkRSMFpIdDJjeWNsVHZvV2VpTkdOdFZsTnNoM2RqbFVlUXgyVnk4a2UzUTBiNDFrY1NSMlpwRkVPM01WVGlwbmRLZDFTNnAzZHg4MlRuMVRQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA TALKIES" tvg-logo="https://user-images.githubusercontent.com/78508217/110302283-4680f800-8023-11eb-8365-af9c9d4b2cf3.png" group-title="IND.BANGLA",BANGLA TALKIES
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/91.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOOM MUSIC.1" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_856/PORTRAIT/S6d9cb2S.png?o=production" group-title="IND.BANGLA",DOOM MUSIC.1
 http://?dWwzVTFJRFRwaG5acmhGYXlWVGEyRWpTblpUY3dCbmUwbDFRYTltU1VKemRhZG5lUzFXVDVJbGMzSmxTd2RYU2FCWFUwdEdhTWwzWkp0Q1dWOVNOMXhVUTQ1bU5LUlhhUnBsZHlnM2IyNDBkaU5FVDVGRGQ1Y0hjYVJYUkpOVVI0RTFkWUpWZFJkbmF2SlRid1lqYnQxbVZKbFZiM1VrYjZSMlpGRkdSMmwyTTJwR1RxMW1ZUzEyU1VoRWFORjFSQlpHVHhCVGF5VlRNeFVIZXJnRVVsWm5iaWRFTXhSR2R4VlRjQ1pUWW85R2NWWlhlT3hXYTBNRGFFMTBUNnAyTXhGRmRCaEhScWhUUA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOOM MUSIC.2" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_856/PORTRAIT/S6d9cb2S.png?o=production" group-title="IND.BANGLA",DOOM MUSIC.2
@@ -574,7 +574,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE HD MUSIC" tvg-logo="https://user-images.githubusercontent.com/78508217/109850170-68bdf300-7c7c-11eb-9fcf-e8dc2d88e9a9.png" group-title="MUSIC CH",ONE HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS.1
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/102.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CH",T SPORTS.2
 http://c1live.com:80/tv/bd-gazi.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN-SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7592da00-d1b1-11ea-af5a-6f10b22fa1bf/461435/77760677.png" group-title="SPORTS CH",TEN-SPORTS.1
@@ -602,7 +602,7 @@ http://?M2wzVTFJRFRwSm5acmhGYXlWRGMyRWpTblpUY3FCbmUwbDFUckZYT25kMlltVlZibnRDTXps
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS CH",SONY SIX HD
 http://?eGRrV3lFVU5ZOVdURlpWYmg5Q2F6MFdaSVJIWnlaWFJscEZVb2gyYjVrR2RuaDBjd2sxY2haamEyNUdNMzVVUU5aM00wWVZNU2xuZDNFMlZVTlZSd2xFZXJFbmVQZFdVYWhqZHc0V2RYdGtRNGtUWXdoSFJIWmpidjVtUWlaVWN5ZEZlME5sWTNOa2Q2RjNkVzFrVHRGSE00cGxjT1JsZTNRMVlzTlhQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CH",WILLOW CRICKET HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/70.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone70.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS HD 501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fox_Sports_Netherlands_Logo.png/800px-Fox_Sports_Netherlands_Logo.png" group-title="SPORTS CH",FOX SPORTS HD 501
 http://pn.tvott.info:80/live/477817111363246/477817111363246/83393.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTA SPORTS.1" tvg-logo="https://m3u-editor.com/storage/channel-logos/df209a30-4423-11eb-8740-13a221f1e2ec/1004497/165678618.png" group-title="SPORTS CH",RTA SPORTS.1
