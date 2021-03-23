@@ -753,7 +753,7 @@ http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6131/index.m3u8
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6132/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 12 HD QA" tvg-logo="https://user-images.githubusercontent.com/78508217/110356798-d09d8080-8064-11eb-806d-659322df2248.png" group-title="beIN Sports",beIN Sports 12 HD QA
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6133/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5S4bpSnrYZhTLSp9LPR2R0Wdfk-CcgVnghA&usqp=CAU" group-title="BDIX⊕2",& PICTURES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5S4bpSnrYZhTLSp9LPR2R0Wdfk-CcgVnghA&usqp=CAU" group-title="BDIX⊕",& PICTURES
 http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="BDIX⊕",& TV
 http://103.205.133.21/hls/andtv.m3u8
@@ -851,7 +851,7 @@ http://103.205.133.21/hls/ten2.m3u8
 http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TV SD" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="BDIX⊕",SONY TV SD
 http://103.205.133.21/hls/chs.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX⊕2",STAR JALSHA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX⊕",STAR JALSHA
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAZV2iOGYJz70OKjwFavNUngbcwIZm8lZiFA&usqp=CAU" group-title="BDIX⊕",STAR MOVIES 
 http://103.205.133.20/hls/starmovies.m3u8
@@ -865,7 +865,7 @@ http://103.205.133.21/hls/wowcinema.m3u8
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA" tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="BDIX⊕",ZEE CINEMA
 http://103.205.133.21/hls/zeecinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE SALAM" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71489534.jpg" group-title="BDIX⊕2",ZEE SALAM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE SALAM" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71489534.jpg" group-title="BDIX⊕",ZEE SALAM
 http://103.205.133.21/hls/zeesalaam.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX⊕",ZEE TV
 http://103.205.133.21/hls/zeetv.m3u8
@@ -957,7 +957,7 @@ http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
 http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="BDIX⊕3",ZEE TV
 http://10.16.100.201/hindi/ztv_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK ||BANI||" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="KIDS ENT.",NICK ||BANI||
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK ||BAN||" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="KIDS ENT.",NICK ||BANI||
 http://?dGRrV3lFVU5ZNVdURlpWYmg5eVp6MFdaSVJIWm9aWFJscEZVb1IzYjVrR2RuaFVid2sxY2haamF2NUdNMzVVUU54Mk1GTlZkblIxZE9kMllVcEdNM04xUnd0V1JQQm5jMGczUkY1MmJVRjJMWkpVU29WMktJZEdiaFpuVHJRME5CaHpjS3hXTWhWMFpybG5ZekYxUXpobVZDeG1lNUZqYklWMFFtRlZQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK ||HINDI||" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS ENT.",NICK ||HINDI||
 http://?PWtYZVRWak1NbG1lbXRHV29KWE54WlRNS2RtTnhoSGM2Um5WVEJWZDFzV2F2QWpibnAxZE5aRVdoTjNZTEZHY3NoVmJVQjNhM0FET3dkRGVPTm5XWlIzWUhKVlFFVlVhNkZYYWtGalM2QjNZSE5tUW5sSGJTRjNLUzlDY2tOWFFVRjNWdFZFYk90eVE2eEdSMDhXUURGVGVSSm5SM2sxSzNSbVIwZFVUdTVXZUpOVldZQjNjQlIxYnZrRk0wdEdNbnBGYVJabmR3VWxaVkpqY0pOelJMNVdkcUZqVmxwR2UzeFdUS3AxUkdabGVLWjJWWGxtZDQ5bVMzUVVXeTlXWWhkalkwTmpkeDh5YzBSa2VvMUdSM28zU3hrWFJGMTJjUzVFYnVoV09ubDJR
