@@ -327,7 +327,7 @@ http://?PWtIZG9WRmNtRm5hdGhGTlZaemN1UkRObU5WYUVwV1phZFVUdWREYUtaVFMxTWtNelozTW9C
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT" tvg-logo="https://user-images.githubusercontent.com/78508217/109880969-bf89f380-7ca1-11eb-9c13-12b90e6d92ab.png" group-title="HINDI CH",STAR BHARAT
 http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="HINDI CH",STAR BHARAT HD
-http://fun6.xyz:8880/HINDI_STAR_BHARAT_HD_INDIA/index.m3u8
+http://fun6.xyz:8880/HINDI_STAR_BHARAT_HD/index.m3u8
 #http://digiiptv.ddns.net:25461/Rojob/12345/774
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="HINDI CH",STAR GOLD
 http://c1live.com:80/tv/in-stargold.php|Referer:http://c1live.com/|tokenUrl:/4
@@ -1039,7 +1039,7 @@ http://45.153.33.137:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PIX" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENG.MOVIES CH",SONY PIX
 http://?dGRrV3lFVU5ZWlhURlpWYmg5eWJ6MFdaSVJIWnBaWFJscEZVb1YzYjVrR2RuaFVld2sxY2haamFxNUdNMzVVUU4xR01XWmpTTWhsY1loR1ZEaERacEZYTnJaRVdERlhVeWNYVnNwWGRzcDBONGNGVDRsV2N2a0RSUlIzY01CM01PNTBiWHhtY0h0MEx4NVVjd01WYUJ4MlVLUlRWMFZ6ZEtKek5oRlZQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENG.MOVIES CH",SONY PIX HD
-http://fun6.xyz:8880/HINDI_STAR_PIX_HD/index.m3u8
+http://fun6.xyz:8880/HINDI_STAR_PIX_HD_INDIA/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& FLIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="ENG.MOVIES CH",& FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& FLIX HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109227995-69bdd300-77eb-11eb-982d-0cb5be5f666b.png" group-title="ENG.MOVIES CH",& FLIX HD
