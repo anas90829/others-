@@ -444,6 +444,90 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEMAR-TV (AFG)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="HINDI CH",LEMAR-TV (AFG)
 http://167.86.95.219:80/Lemar/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="9X_JALWA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",9X_JALWA
+https://d39hakb91vlajt.cloudfront.net/9X_JALWA.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="9XM" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",9XM
+https://dsk7m4mus7mfa.cloudfront.net/9XM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAKASH_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",AAKASH_BANGLA
+https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAMAR_CINEMA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",AAMAR_CINEMA
+https://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U_KADAK" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",B4U_KADAK
+https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U_MOVIES" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",B4U_MOVIES
+https://d8luycluc1d1i.cloudfront.net/HOUSEFULL_MOVIES.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="B4U_MUSIC" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",B4U_MUSIC
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA_TALKIES" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",BANGLA_TALKIES
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DABANG_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DABANG_TV
+https://d3i7f81bwi8smb.cloudfront.net/DABANG.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DD_BANGLA
+https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD_SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DD_SPORTS
+https://dhw8r5iptwu87.cloudfront.net/DD_SPORTS.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DD_SPORTS" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DD_SPORTS
+https://dhw8r5iptwu87.cloudfront.net/DD_SPORTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEB_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DEB_TV
+https://d3vfx9v1ono51n.cloudfront.net/DEB_TV.m3u8
+#EXTINF:-1 tvg-id="ZeeTVHD.in" tvg-name="DHOOM_MUSIC" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DHOOM_MUSIC
+https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
+#EXTINF:-1 tvg-id="NDTV24X7.in" tvg-name="DISCOVERY" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DISCOVERY
+https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY_KIDS" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",DISCOVERY_KIDS
+https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="E24" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",E24
+https://d3dzj7xtxgwrdr.cloudfront.net/E24.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENTERR_10_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ENTERR_10_BANGLA
+https://d1e869j57uwtqx.cloudfront.net/ENTERR_10_BANGLA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT_HD" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",EUROSPORT_HD
+https://d3unitaot36vqx.cloudfront.net/EURO_SPORT.m3u8
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="FASHION_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",FASHION_TV
+https://d1gdlyi0t4h1s1.cloudfront.net/FASHION_TV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHUSBOO_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",KHUSBOO_TV
+https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
+#EXTINF:-1 tvg-id="SaharaOne.in" tvg-name="MASTII" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",MASTII
+https://d19inyetir6qcn.cloudfront.net/MASTII.m3u8
+#EXTINF:-1 tvg-id="TVPlaySports.lv" tvg-name="MO_MUSIC" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",MO_MUSIC
+https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",MTV
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OSCAR_MOVIES" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",OSCAR_MOVIES
+https://ditnpgcgej9mc.cloudfront.net/OSCAR_MOVIES.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RONGEEN_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",RONGEEN_TV
+https://d2q5mdhp3fo8sk.cloudfront.net/RONGEEN_TV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUPASHI_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",RUPASHI_BANGLA
+https://d3t45f9t5re4rv.cloudfront.net/RUPASHI_BANGLA.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="SANGEET_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",SANGEET_BANGLA
+https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOW_MUSIC" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",SHOW_MUSIC
+https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY_WAH" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",SONY_WAH
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY_YAY" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",SONY_YAY
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",SUN_BANGLA
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TARA_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",TARA_TV
+https://d1blkp3olduf5d.cloudfront.net/TARA_TV.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRAVEL_XP" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",TRAVEL_XP
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="VH1" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",VH1
+https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOW_CINEMA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",WOW_CINEMA
+https://d256325v3md1eh.cloudfront.net/WOW_CINEMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE_ANMOL" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ZEE_ANMOL
+https://d2bfv5viypt204.cloudfront.net/Z_ANMOL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE_BANGLA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ZEE_BANGLA
+https://d2k667g61yse6h.cloudfront.net/101.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE_CINEMA" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ZEE_CINEMA
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE_TV" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ZEE_TV
+https://d3k4iqwxqhylgu.cloudfront.net/100.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="ZING" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ZING
+https://d3uz08lgr75tze.cloudfront.net/ZING.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ZOOM" tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="TULIP_TV",ZOOM
+https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF: -1 tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="INDIA//MIX.",B4U MOVIES
 http://?PU1IZG9WRmNtRjNidGhGTlZaemMwUkRObU5WYUVkV1phZFVUdWREYktaVFMxTWtNc1ozTW9CWFdtUkhOS1IwYjYxa2RUaDFOYVp6UzZkVFVxOUdOSEpIVU1WV090TkViVTVHT3FkR010UjFLcTUwU3ZvSFpQSlZUeG9WY05OM2MyNWtWMDEwTndVV1ZYQkhXdllHU1JKbmUwZ1Raa3AyZG5Gek1TUjFTRTFHY3pJblZ4RkhldmdGYWhORmE1bDJLblJuWWxoM2J6QnpWdkpXZXcxV2VubFdNM1ZqWUVGVmFLSlhNQ04wVDRvV2NUWjFOSWxrZW9sVFlMaGpXTkJYTnJkSFdrOW1jSUZsYUtGMEwzZG5iWFZrUlNCblN1RkdkdkUxYzR0bVRMUlVZNlYyWXd3bVdEWjNOUzFHVjJoVWRreEVlUDFXYnVka1poaFdSNGMyU0lGSFRtWnphMEpuU0lSamRwWjBRdjVtYTVRM0xOSmxXU0pIZXJRSE01Z1ZWdjEwYm9OMFM0ZEdlM0ZHTTROM2J6UTFaUVZtWXFoelk0Y2paV2QzUnhrVE1QUm1hMkJIZTFFRWRxRjFNM1JWU1U5bWEzaFRhVE5tZWlWRU95SnpVcEpYYXhNVlZUZEdSUDFXVDJkamJ2QUhVdmduWnlWVWV3RUVWd1JIUjRKa1VGcEdldkFWYnpKRVo2SlVhWXhtYnhvblRySjJjWnRXZHNkSFVwZHphdlZIWlFWR1pJWm5OM2h6WU1OVWE0OVNhNGtuV3VkWGFXZERhd2RuUkpSVVdxZEdkTk5YV1loalMyUjFUMlVrYVVKbmR3TTJkV1JXZEYxMlZYaG5SeWhXWlRkemN5NW1UdEpWT21KbmFYeG1Xb3AxYno5V1A=
 #EXTINF: -1 tvg-logo="https://user-images.githubusercontent.com/80354303/110743688-a6191680-8262-11eb-874e-781138d39761.png" group-title="INDIA//MIX.",B4U MUSIC
