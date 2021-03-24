@@ -239,7 +239,7 @@ http://103.251.247.105:3001/aostv/5fb8b539813f1de2333c31b9/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA HD.1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="IND.BANGLA",STAR JALSHA HD.1
 http://?cmRrV3lFVU5ZaFdURlpWYmg5Q2N6MFdaSVJIWjBaWFJsUldXU2QzUVBaRVp0MW1jNUZEVDJGVmV1bEZhTFJuVk0xbVRCRlRTd1FGYUhSWFVxbEZOMk5WV3JFMVYyTlhaMllEY3ROamVQTmpRcVZXUTZWV1l6QkhPNWNtUzFaM1JNZG1iU1YzYTRJa1F4ZGxjMGNEZVROM0wyOVVXdkVIZHlBRlZWcFdlMVpGUnJVbk56OEdiT0puUW5wa2JIOVVZMWRqZXBOR1o=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA HD.2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="IND.BANGLA",STAR JALSHA HD.2
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/30.m3u8|User-Agent: HDPlayer/3.3.10 (Linux;Android 8.1.0) ExoPlayerLib/2.11.4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JALSHA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="IND.BANGLA",JALSHA MOVIES
 http://103.251.247.105:3001/aostv/5fc11a9477ef280ee69891ba/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JALSHA MOVIES HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848137-1f6ca400-7c7a-11eb-883b-d172f207102f.png" group-title="IND.BANGLA",JALSHA MOVIES HD
@@ -320,13 +320,15 @@ http://fun6.xyz:8880/HINDI_UTV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="https://user-images.githubusercontent.com/78508217/109219863-61ad6580-77e2-11eb-94cf-ad5ea79010a5.png" group-title="HINDI CH",STAR PLUS
 http://c1live.com:80/tv/in-starplus.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848896-fac4fc00-7c7a-11eb-8ef7-2dfb889a63f6.png" group-title="HINDI CH",STAR PLUS HD
-http://digiiptv.ddns.net:25461/Rojob/12345/152
+http://fun6.xyz:8880/HINDI_STAR_PLUS_HD_INDIA/index.m3u8
+#http://digiiptv.ddns.net:25461/Rojob/12345/152
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTSAV PLUS" tvg-logo="https://user-images.githubusercontent.com/80354303/110840150-97684900-82ce-11eb-9590-9b4ea2aee663.png" group-title="HINDI CH",UTSAV PLUS 
 http://?PWtIZG9WRmNtRm5hdGhGTlZaemN1UkRObU5WYUVwV1phZFVUdWREYUtaVFMxTWtNelozTW9CWFdtWkhOS1IwYjYxRWRTNVVPbHBWYm90aVVqbERhME1uVndnME1rdFdhTnQwYUU5R1NvZEhheVkzY3poWE5rVmtkeWxWY3hSWE1VdGtaNDkwTGxSV2R0QlhaNlJrUXl0eVpobFVXUU56S3B4V1Z5SlhTcXhXWUk1V2VIUm5lSTlpUjJOa1lwSjFLUmgyYjJkM2FxTlZadk5EZTFKak0yZGtaeEZWWm01RU5ERlhSb2hYUzNKVGR4WVVSbGxEVDROVGJITlhWWFZYUnJFVlVqbFVhd2NGTVl4bVJ6QjFiNGtXUXZCSGR4eFVWU0oyWkJORFVTWjNRNUZGTjRrVVVYRlhSd0FWVWl0eWFyRlZhc1JWYW9kMUs2MUdOcDFHYUdWVVpsZFRib3BtWjVrMU1zcEdVNjFtZXJsWGUwUldidHBGYnJnV2NUeFVNNXhFZDB4VVF0RlhRWUJsZEZaamRDeEdlRGhUWXQ5bWVPaFVTM1pIYnhrbmRUSlVhNUVuWVd0U05vRm1NTFZYVDJabmFoSjBaQ0owZG1GV1F5RURNcmxWTVhobmNNbG1WMk5UV1FOa2JvNUVVUWQzTXI1RVJwbDNjeEozWnhrRWNURkdkaXhVY2lSbGFuSkZkQlpVTW1sWGNaQjNNMlEzZDFSV1V3UnpMeEZtVEpWSE1QdG1Vc1YyYkZSR2IzWUhWWFZGWnpwbFZ1NW1OSXBHZVRCM0xySXpienNVV3JsbFVxTkRkSE5EZDJGM05GOVdOMmNsZXpOMVpUQkhib0puVnRkRVdKbFhidjgwWVROamU0VVVUT3htVDNOWFA=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT" tvg-logo="https://user-images.githubusercontent.com/78508217/109880969-bf89f380-7ca1-11eb-9c13-12b90e6d92ab.png" group-title="HINDI CH",STAR BHARAT
 http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="HINDI CH",STAR BHARAT HD
-http://digiiptv.ddns.net:25461/Rojob/12345/774
+http://fun6.xyz:8880/HINDI_STAR_BHARAT_HD_INDIA/index.m3u8
+#http://digiiptv.ddns.net:25461/Rojob/12345/774
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="HINDI CH",STAR GOLD
 http://c1live.com:80/tv/in-stargold.php|Referer:http://c1live.com/|tokenUrl:/4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848904-fbf62900-7c7a-11eb-94a8-8e1a14227533.png" group-title="HINDI CH",STAR GOLD HD
@@ -336,6 +338,7 @@ http://?PWdIZG9WRmNtRm5jdGhGTlZaemMzUkRObU5WYUUxV1phZFVUdWRUZUtaVFMxTWtNd1ozTW9C
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD 2" tvg-logo="https://user-images.githubusercontent.com/78508217/109848909-fc8ebf80-7c7a-11eb-8883-ec0596382ac8.png" group-title="HINDI CH",STAR GOLD 2
 http://digiiptv.ddns.net:25461/Rojob/12345/783
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848917-fef11980-7c7a-11eb-8b98-fbed0f04024e.png" group-title="HINDI CH",STAR GOLD SELECT HD
+http://fun6.xyz:8880/HINDI_STAR_GOLD_SELECT_HD/index.m3u8
 http://digiiptv.ddns.net:25461/Rojob/12345/823
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://user-images.githubusercontent.com/78508217/107859078-704e6100-6e61-11eb-84fa-8f634d555afb.png" group-title="HINDI CH",& TV
 http://?MWRrV3lFVU5ZWlhURlpWYmg5Q2V6MFdaSVJIWnJaWFJscEZVb3AzYjVrR2RuaGtld2sxY2haamF1NUdNMzVVUU54R01ubDNVd01EYlB0MlN0NW1iMU5EVnpnblc1SlhZSlZsVzJaRmF3ZGpUSWxWU3paSFZEUldTcllIZVlORE9RNWthRjltYjFWMlZ2SjNLSkZ6WnhsR2NrbEViMXAwZFBSRlZ6OVdQ
@@ -1036,7 +1039,7 @@ http://45.153.33.137:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PIX" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENG.MOVIES CH",SONY PIX
 http://?dGRrV3lFVU5ZWlhURlpWYmg5eWJ6MFdaSVJIWnBaWFJscEZVb1YzYjVrR2RuaFVld2sxY2haamFxNUdNMzVVUU4xR01XWmpTTWhsY1loR1ZEaERacEZYTnJaRVdERlhVeWNYVnNwWGRzcDBONGNGVDRsV2N2a0RSUlIzY01CM01PNTBiWHhtY0h0MEx4NVVjd01WYUJ4MlVLUlRWMFZ6ZEtKek5oRlZQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENG.MOVIES CH",SONY PIX HD
-http://103.205.133.20/hls/sonypix.m3u8
+http://fun6.xyz:8880/HINDI_STAR_PIX_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& FLIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="ENG.MOVIES CH",& FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& FLIX HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109227995-69bdd300-77eb-11eb-982d-0cb5be5f666b.png" group-title="ENG.MOVIES CH",& FLIX HD
